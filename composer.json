@@ -1,0 +1,13 @@
+{
+  "name": "woocommerce/phpcs-example-repo",
+  "description": "",
+  "type": "wordpress-plugin",
+  "require-dev": {
+    "woocommerce/woocommerce-sniffs": "0.0.9"
+  },
+  "scripts": {
+    "phpcs": [
+      "phpcs"
+    ]
+  }
+}
